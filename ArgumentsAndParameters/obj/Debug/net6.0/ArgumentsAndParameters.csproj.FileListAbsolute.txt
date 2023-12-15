@@ -1,0 +1,15 @@
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/bin/Debug/net6.0/ArgumentsAndParameters
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/bin/Debug/net6.0/ArgumentsAndParameters.deps.json
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/bin/Debug/net6.0/ArgumentsAndParameters.runtimeconfig.json
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/bin/Debug/net6.0/ArgumentsAndParameters.dll
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/bin/Debug/net6.0/ArgumentsAndParameters.pdb
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.csproj.AssemblyReference.cache
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.AssemblyInfoInputs.cache
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.AssemblyInfo.cs
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.dll
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/obj/Debug/net6.0/refint/ArgumentsAndParameters.dll
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.pdb
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.genruntimeconfig.cache
+/Users/kris/Projects/Week7-Functions/ArgumentsAndParameters/obj/Debug/net6.0/ref/ArgumentsAndParameters.dll

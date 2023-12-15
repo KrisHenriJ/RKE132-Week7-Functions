@@ -1,0 +1,15 @@
+/Users/kris/Projects/Week7-Functions/Week7-Functions/bin/Debug/net6.0/Week7-Functions
+/Users/kris/Projects/Week7-Functions/Week7-Functions/bin/Debug/net6.0/Week7-Functions.deps.json
+/Users/kris/Projects/Week7-Functions/Week7-Functions/bin/Debug/net6.0/Week7-Functions.runtimeconfig.json
+/Users/kris/Projects/Week7-Functions/Week7-Functions/bin/Debug/net6.0/Week7-Functions.dll
+/Users/kris/Projects/Week7-Functions/Week7-Functions/bin/Debug/net6.0/Week7-Functions.pdb
+/Users/kris/Projects/Week7-Functions/Week7-Functions/obj/Debug/net6.0/Week7-Functions.csproj.AssemblyReference.cache
+/Users/kris/Projects/Week7-Functions/Week7-Functions/obj/Debug/net6.0/Week7-Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/Week7-Functions/Week7-Functions/obj/Debug/net6.0/Week7-Functions.AssemblyInfoInputs.cache
+/Users/kris/Projects/Week7-Functions/Week7-Functions/obj/Debug/net6.0/Week7-Functions.AssemblyInfo.cs
+/Users/kris/Projects/Week7-Functions/Week7-Functions/obj/Debug/net6.0/Week7-Functions.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/Week7-Functions/Week7-Functions/obj/Debug/net6.0/Week7-Functions.dll
+/Users/kris/Projects/Week7-Functions/Week7-Functions/obj/Debug/net6.0/refint/Week7-Functions.dll
+/Users/kris/Projects/Week7-Functions/Week7-Functions/obj/Debug/net6.0/Week7-Functions.pdb
+/Users/kris/Projects/Week7-Functions/Week7-Functions/obj/Debug/net6.0/Week7-Functions.genruntimeconfig.cache
+/Users/kris/Projects/Week7-Functions/Week7-Functions/obj/Debug/net6.0/ref/Week7-Functions.dll

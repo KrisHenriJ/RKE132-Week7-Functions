@@ -1,0 +1,15 @@
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.csproj.AssemblyReference.cache
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.AssemblyInfoInputs.cache
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.AssemblyInfo.cs
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/bin/Debug/net6.0/DiscountCalculator
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/bin/Debug/net6.0/DiscountCalculator.deps.json
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/bin/Debug/net6.0/DiscountCalculator.runtimeconfig.json
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/bin/Debug/net6.0/DiscountCalculator.dll
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/bin/Debug/net6.0/DiscountCalculator.pdb
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.dll
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/obj/Debug/net6.0/refint/DiscountCalculator.dll
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.pdb
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/obj/Debug/net6.0/DiscountCalculator.genruntimeconfig.cache
+/Users/kris/Projects/Week7-Functions/DiscountCalculator/obj/Debug/net6.0/ref/DiscountCalculator.dll
